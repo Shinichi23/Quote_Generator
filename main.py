@@ -11,10 +11,10 @@ while True:
         while True:
             yes_not = input("Do you want another quote? (yes/no): ").strip().lower()
             if yes_not == 'yes':
-                break  # Go back to the beginning of the outer loop
+                break
             elif yes_not == 'no':
                 print("Goodbye!")
-                exit()  # Exit the program
+                exit()
             else:
                 print("Please answer with 'yes' or 'no'.")
     else:
