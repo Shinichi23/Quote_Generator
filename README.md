@@ -1,2 +1,2 @@
 # Quote_Generator
-Simple App using Python.
+Simple Quote Generator App using Python.
